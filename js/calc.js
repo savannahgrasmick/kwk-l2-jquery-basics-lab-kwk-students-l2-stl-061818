@@ -15,7 +15,6 @@ function validate(operator, num1, num2) {
       } else {
         answer(operator, num1, num2); 
       }
-}
+    }
+} 
   
-  
-}
