@@ -1,7 +1,7 @@
 //add your code here
 
 
-const operation = ["+", "-", "*","/"]
+let operation = 
 
 let num1 = 
 
