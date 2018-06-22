@@ -1,24 +1,20 @@
 //add your code here
 
 
-let operator = 
+let operator = $("#operation")
 let num1 = $("#number1")
-let num2 = 
+let num2 = $("#number2")
 
-function addition() {
-  num1 + num2;
+function validate(operator, num1, num2) {
+  
+  if (operator == "+" || operator == "-" || operator == "*" || operator == "/") {
+    if (isNaN)
+    
+    
+    
+    
+    
+  }
+  
+  
 }
-
-function subtraction() {
-  num1 - num2;
-}
-
-function multiplication() {
-  num1 * num2
-}
-
-function division() {
-  num1 / num2
-}
-
-
