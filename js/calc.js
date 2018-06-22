@@ -1,10 +1,8 @@
 //add your code here
 
 
-let operation = 
-
-let num1 = 
-
+let operator = 
+let num1 = $("#number1")
 let num2 = 
 
 function addition() {
