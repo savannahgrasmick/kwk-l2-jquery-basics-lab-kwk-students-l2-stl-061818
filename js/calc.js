@@ -8,7 +8,7 @@ let num2 = $("#number2")
 function validate(operator, num1, num2) {
   
   if (operator == "+" || operator == "-" || operator == "*" || operator == "/") {
-    if (isNaN)
+    if (isNaN(num1) || num1 === "" || 
     
     
     
